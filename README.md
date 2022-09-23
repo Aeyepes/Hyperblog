@@ -1,5 +1,5 @@
 # Hyperblog ♥
-Un blog increible para el [curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/"Platzi")
+Un blog increible para el [curso de Git y Github](https://Platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://Platzi.com/"Platzi")
 >El curso de Git y Github de Platzi es lo que me hacia falta para triplicar  mi salario y lanzarme a la industria del tejido de lana sint&eacute;tica con Machine Learning
 >- niñita
 
@@ -13,4 +13,4 @@ Un blog increible para el [curso de Git y Github](https://platzi.com/cursos/git-
 * Incluye ejemplos en Windows, Linux y Mac
 * Disponible para todas las edades
 
-Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas ac&aacute; NO TE LO TOMES EN SERIO  y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
+Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas ac&aacute; NO TE LO TOMES EN SERIO  y mejor ve [**a ver el curso**](https://Platzi.com/cursos/git-github/ "a ver el curso").
